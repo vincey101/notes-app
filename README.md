@@ -249,6 +249,35 @@ cd frontend && npm run dev
 - Secure API Endpoints
 - Error Handling & Validation
 
+## 📸 Screenshots
+
+### Authentication
+
+![Login Page](assets/screenshots/login.png)
+_User login interface with email and password fields_
+
+![Register Page](assets/screenshots/register.png)
+_New user registration form with name, email, and password fields_
+
+### Main Application
+
+![Dashboard](assets/screenshots/dashboard.png)
+_Main dashboard showing all user notes with search functionality_
+
+![Create Note](assets/screenshots/create.png)
+_Create new note interface with AI summarization option_
+
+![View Note](assets/screenshots/view.png)
+_Detailed view of a single note_
+
+![Edit Note](assets/screenshots/edit.png)
+_Note editing interface with real-time preview_
+
+
+![Delete Note](assets/screenshots/delete.png)
+_Delete note interface_
+
+
 ## 🔒 Security
 
 - API Authentication using Laravel Sanctum
@@ -321,7 +350,6 @@ cd frontend && npm run dev
    - Automated code quality checks
    - Entire development environment in Docker not just python alone
 
-
 6. **Infrastructure**:
 
    - Load balancing for Python service
@@ -330,6 +358,7 @@ cd frontend && npm run dev
    - Health checks for all services
 
 7. **User Experience**:
+
    - Customizable themes
    - Keyboard shortcuts
    - Better accessibility (WCAG compliance)
