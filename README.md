@@ -323,7 +323,7 @@ _Delete note interface_
    - Note categories/tags for better organization
    - Rich text editor with markdown support
    - Note sharing capabilities
-   - Export notes to PD
+   - Export notes to PDF
    - Bulk operations (delete, categorize)
    - Note version history
 
